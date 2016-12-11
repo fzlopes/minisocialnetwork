@@ -28,6 +28,6 @@ class User extends Authenticatable
     ];
 
     protected $dates = [
-        'dob'
+        'dob',
     ];
 }
